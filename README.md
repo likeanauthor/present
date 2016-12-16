@@ -7,3 +7,4 @@
 
 Ну и конечно не стоит забывать про карту тайников (свысока):
 
+![map overview](https://github.com/likeanauthor/present/blob/master/map.png)
