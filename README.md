@@ -1,20 +1,9 @@
-# Happy New Year strange present
-_it could be book in some directions (but also as a reminder of pet project)_
+# Молодец!
 
-But you should write this book.
+Наверно у тебя сейчас уже есть две шоколадки (как минимум, раз ты дошел до этого момента)
+Конечно ты мог случайно обнаружить и другие тайники, как например в метре от предыдущего, на твоих тетрадях, но на этот случай я приготовил и другие тайники... И так как я несколько раз менял положение тайников и прятал всё новые шоколадки, некоторые тайники с увереностью вспомнить не смогу, поэтому решил нарисовать карту, а также, назначить хранителей тайников Гошу, Ивана и Инессу.
 
-Step by step in your own way, as you wish it.
+Напиши им телеграмму, для получения следующих подсказок.
 
-I'm just wanna play with you in ReactJS :)
+Ну и конечно не стоит забывать про карту тайников (свысока):
 
-https://facebook.github.io/react/
-
-Get started and take a look through, it seems like a not bad solution.
-
-So after cloning a project you should run:
-
-```bash
-npm install
-# then, after success installiation
-npm start
-```
